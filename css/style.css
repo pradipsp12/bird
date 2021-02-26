@@ -163,21 +163,19 @@
 	padding-left:0px;
 }
 .bn-mn{
-	margin:auto;
+	margin:auto!important;
 	margin-top:50px;
 	min-height:160px;
 }
 .butn{
 	font-size:25px;
-	margin:auto;
+	margin:auto!important;
 	display:block;
 	background:#65bf95;
 	text-align:center;
 	color:white;
 	padding:15px 20px;
 	outline:transparent!important;
-	/* min-height:60px; */
-	/* width:100%; */
 }
 @font-face{
 	font-family:forth-font;
