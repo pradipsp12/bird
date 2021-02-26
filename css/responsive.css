@@ -1,4 +1,4 @@
-@media screen and (min-width: 381px) and (max-width:767px){
+@media screen and (min-width: 360px) and (max-width:767px){
 .ln-blk{
 	display:inline-block!important;
 }
@@ -33,16 +33,16 @@
 	.uptext{
 	height:44px;
 	width:300px;
-	font-size:25px;
+	font-size:20px;
 
 	}
 	.downtext{
 	height:44px;
-	font-size:25px;
+	font-size:20px;
 	}
 
 }
-@media screen and (min-width: 381px) and (max-width:991px){
+@media screen and (min-width: 360px) and (max-width:991px){
 	
 .rgt-bx-hed{
 	font-size:40px;
