@@ -1,0 +1,99 @@
+@media screen and (min-width: 381px) and (max-width:767px){
+.ln-blk{
+	display:inline-block!important;
+}
+.boxtxt{
+	/* float:left; */
+	padding-left:0px;
+	
+}
+.hedtxt{
+	/* float:left; */
+	padding-left:0px;
+}
+.mgin{
+		margin:auto;
+		display:block;
+	}
+	.hedtxt{
+		text-align:center;
+	}
+	.boxtxt{
+		text-align:center;
+	}
+    .pd-tp{
+		padding-top:50px;
+	}
+	.txt-box{
+	position:absolute;
+	top:23%;
+	right:35px;
+	height:0px;
+	}
+	.uptext{
+	height:44px;
+	width:300px;
+	font-size:25px;
+
+	}
+	.downtext{
+	height:44px;
+	font-size:25px;
+	}
+
+}
+@media screen and (min-width: 381px) and (max-width:991px){
+	
+.rgt-bx-hed{
+	font-size:40px;
+}
+.rgt-bx-ln{
+	font-size:20px!important;
+}
+.cntr{
+	width:100%!important;
+	
+}
+.mnu-br{
+	font-size:16px;
+	padding-top:10px;
+}
+.pad-tp{
+		padding-top:50px;
+	}
+	.icon-log{
+	font-size:60px;
+	padding-top:40px;
+}
+}
+
+@media screen and (min-width: 768px) and (max-width:812px){
+	.menu-br i{
+	min-width:30px;
+	padding-left:7px;
+	height:30px;
+	padding-top:4px;
+	font-size:20px;
+}
+	.ln-blk{
+	padding:0px;
+	margin:0px;
+}
+}
+@media screen and (min-width: 768px) and (max-width:991px){
+	.txt-box{
+	top:220px;
+	right:55px;
+}
+	.uptext{
+	height:44px;
+	width:352px;
+	font-size:30px;
+
+}
+.downtext{
+	height:44px;
+	font-size:30px;
+}
+
+}
